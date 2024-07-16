@@ -11,7 +11,7 @@ Imports Azure Automation Runbooks as Configuration Items in 4me.
 ## Parameters
 
 ### ProductNodeId
-**Required**
+**Required**<br>
 (NodeId)[https://www.4me.com/blog/copy-nodeid-to-clipboard-action/] of the Product.
 
 ### SourceName
